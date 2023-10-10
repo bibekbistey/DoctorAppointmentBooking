@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "64b9075ca7878888450e4813",
+            "name": "Bibek",
+            "email": "bibek@gmail.com",
+            "isAdmin": false,
+            "isDoctor": false,
+            "notifcation": [],
+            "seennotification": [],
+            "__v": 0
+      }
+]

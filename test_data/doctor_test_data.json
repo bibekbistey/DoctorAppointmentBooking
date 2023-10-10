@@ -1,0 +1,31 @@
+[
+    {
+      "userId": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "+1 123-456-7890",
+      "email": "john.doe@example.com",
+      "website": "www.johndoe.com",
+      "address": "123 Main St, City",
+      "specialization": "Cardiology",
+      "experience": "10 years",
+      "feesPerCunsaltation": 200,
+      "status": "pending",
+      "timings": "9 AM - 5 PM"
+    },
+    {
+      "userId": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phone": "+1 987-654-3210",
+      "email": "jane.smith@example.com",
+      "website": "www.janesmith.com",
+      "address": "456 Elm St, City",
+      "specialization": "Dermatology",
+      "experience": "8 years",
+      "feesPerCunsaltation": 150,
+      "status": "pending",
+      "timings": "10 AM - 6 PM"
+    }
+  ]
+  

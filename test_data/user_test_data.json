@@ -1,0 +1,38 @@
+[
+    {
+        "role": "user",
+        "_id": "64b3ef70d59d9e5487f52383",
+        "name": "Doctor",
+        "email": "doctor@gmail.com",
+        "password": "$2a$10$fFS7qWW73s27X3NmM6IRZe7glNp3Okt6m12FGa7gg8EX/m5jwgAsW",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": [],
+        "__v": 0
+    },
+    {
+        "role": "user",
+        "_id": "64b9075ca7878888450e4813",
+        "name": "Bibek",
+        "email": "bibek@gmail.com",
+        "password": "$2a$10$NqzTrFaT5/zIHUYg5ZvcNeYmmjrjj4XFZLmBnE8uGcx4Y73Cu3gea",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": [],
+        "__v": 0
+    },
+    {
+        "_id": "64bf705d85677f85f353a87c",
+        "name": "Admin",
+        "email": "admin1@gmail.com",
+        "password": "$2a$10$zaARCdvKZVFOZ6Dm3SWiKOH71bytEVUhtJwgTgKmKJFK0xXxn0.Iu",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": [],
+        "role": "admin",
+        "__v": 0
+    }
+]
